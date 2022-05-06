@@ -97,7 +97,7 @@
       "open source": {\n\
         "是否开源": true,\n\
         "GitHub": "https://github.com/BornforthisHJB/json",\n\
-        "公众号：AI悦创，招收编程一对一，微信：Jiabcdefh"\n\
+        "公众号"："AI悦创，招收编程一对一，微信：Jiabcdefh"\n\
       }\n\
   }'
 
