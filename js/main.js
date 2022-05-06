@@ -96,7 +96,8 @@
       "description": "一个简洁的在线 JSON 查看器",\n\
       "open source": {\n\
         "是否开源": true,\n\
-        "GitHub": "https://github.com/Bornforthi/json"\n\
+        "GitHub": "https://github.com/BornforthisHJB/json"\n\
+        "公众号：AI悦创，招收编程一对一，微信：Jiabcdefh"\n\
       }\n\
   }'
 
